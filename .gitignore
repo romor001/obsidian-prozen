@@ -21,3 +21,6 @@ data.json
 
 # Exclude pnpm-lock.yaml
 pnpm-lock.yaml
+
+# opencode
+.omo
